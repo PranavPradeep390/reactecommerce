@@ -29,7 +29,7 @@ function Home() {
 
   const handleCategoryChange = (newCategory) => {
     setCategory(newCategory);
-    setSelectedButton(newCategory); // Set the selected category button
+    setSelectedButton(newCategory); 
   };
 
   const handleSearchTermChange = (e) => {
