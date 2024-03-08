@@ -1,0 +1,48 @@
+.Container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(233, 224, 224);
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+.wllist{
+    width: 40%;
+    margin: auto;   
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+
+}
+.wllist>img{
+    width: 300px;
+}
+.wllist>p{
+    text-align: justify;
+    width: 80%;
+}
+
+.wcmnts{
+    width: 40%;
+    margin: auto;
+}
+.srating{
+    color: gold;
+}
+.sspn{
+    font-weight: 400;
+    font-style:oblique;
+}
+.f21{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#inputcmnts{
+    height: 30px;
+    border-color: transparent;
+}

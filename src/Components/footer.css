@@ -1,0 +1,56 @@
+.footer1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(255, 255, 255);
+    height: 90px;
+    margin-top: 30px;
+
+}
+.f2in>input{
+    width: 200px;
+    height: 30px;
+    border-color: transparent;background-color: rgb(219, 219, 212);
+
+}
+
+.f2in>button{
+    height: 30px;
+    width: 90px;
+    border-color: transparent;
+    background-color: rgb(52, 154, 52);
+    color: white;
+}
+.footer{
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-color: rgb(53, 48, 48);
+    overflow-x: hidden;
+  
+  }
+  .col{
+    margin-left: 50px;
+  }
+  .col>a{
+    color: white;
+    text-decoration: none;
+  }
+  #nvlink1,#nvlink2,#nvlink3,#nvlink4{
+    color: white;
+    margin-right: 50px;
+  }
+  #frm{
+    display: flex;
+  }
+  #topnav{
+    position: fixed;
+    z-index: 400;
+    width: 100%;
+    background-color: black;
+    margin-left: 0px;
+    
+  }
+  .col2{
+    overflow-x: hidden;
+    margin-left: -40px;
+  }

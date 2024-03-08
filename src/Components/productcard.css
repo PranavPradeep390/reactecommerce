@@ -1,0 +1,14 @@
+.btns{
+    position: absolute;
+    bottom: 10px;
+    visibility: hidden;
+}
+.cardproduct:hover .btns {
+    visibility: visible;
+
+}
+.pbtns{
+    /* margin: 5px; */
+}
+
+
